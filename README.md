@@ -1,4 +1,4 @@
-# MultipleSearchEngines一个简单的聚合搜索引擎
+# MSE一个简单的聚合搜索引擎
 运行环境：  
 Eclipse Oxygen.3a Release (4.7.3a)  
 tomcat8.5  
